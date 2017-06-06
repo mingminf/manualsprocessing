@@ -1,0 +1,372 @@
+SRP3013
+
+Always there to help you
+
+Register your product and get support at
+www.philips.com/support
+
+User manual
+
+GrayTurqoiseDuotone
+Black / PMS300
+
+Question?
+Contact 
+Philips
+
+Question?
+Contact
+Philips
+
+Question?
+Contact
+Philips
+
+English
+
+EN 1
+
+Contents
+
+1 Your universal remote    2
+Introduction    2
+Overview of the universal remote    2
+Supported devices    3
+
+2 Get started    4
+Insert batteries (not included)    4
+Set up the universal remote    5
+
+3 Notice    9
+Notice of compliance    9
+Disposal of your old product and batteries    11
+
+4 Service and support    12
+Frequently asked questions    12
+Need help?    12
+
+Contents
+
+2 EN
+
+1 Your universal remote
+
+Congratulations on your purchase, and welcome to Philips! To fully 
+benefit from the support that Philips offers, register your product at 
+www.philips.com/welcome
+
+Introduction
+
+With the universal remote, you can operate up to 3 different devices.
+
+Overview of the universal remote
+
+ 
+
+a INPUT: select available source inputs (antenna, cable, etc.).
+ : power on or off.
+ : LED indicator
+
+b Device selection buttons
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+English
+
+EN 3
+
+c LIVE: displays live TV programs.
+LIST: displays a list of recorded programs.
+INFO: displays on-screen channel information.
+GUIDE: displays the program guide.
+ : play
+ : fast forward
+ : rewind 
+ : pause
+ : stop
+ : record
+
+d  /  /  /  : scroll the menu up/down/left/right.
+OK: confirm your selection.
+MENU: menu on or off.
+BACK: go back one menu level or exit.
+
+e  : mute
+LAST: return to the previous tuned channel.
+CH+/CH-: go to the next/previous channel.
+VOL: adjust the volume. 
+
+f A/B/C/D: context sensitivity buttons (A - yellow, B - blue, C- red, 
+D - Green).
+
+g Digit buttons
+ENTER: confirm the digit button selection.
+(-): selects between one and two-figure channel numbers.
+
+Supported devices
+
+Device nameDescription
+TVTV, DTV
+BDDVD player/recorder, Blu-ray player
+STBCable box, satellite receiver, IPTV, DVR, HDTV 
+decoder and TiVo
+
+4 EN
+
+2 Get started
+
+Insert batteries (not included)
+  
+
+Warning
+
+ •Check the battery polarity when inserting in the battery compartment. Incorrect polarity may 
+damage the product.
+
+Caution
+
+ •Risk of explosion! Keep batteries away from heat, sunshine or fire. Never discard batteries in 
+fire.
+ •Risk of decreased battery life! Never mix different brands or types of batteries.
+
+Note
+
+ •When you replace the batteries, all user settings will be retained in the memory of the 
+universal remote for 5 minutes.
+
+English
+
+EN 5
+
+Set up the universal remote
+
+You must first set up the universal remote before operating your devices.
+
+Manual registration
+
+1 
+
+Switch on your device.
+
+2 
+
+Press and hold the device selection button (e.g. TV) for 5 seconds until
+the blue LED is on.
+
+3 
+
+Look up the 5-digit code for your brand in the code list. Codes are listed
+by the device type and brand name. The most popular code is listed first.
+
+6 EN
+
+4 
+
+Enter the first 5-digit code using the digit buttons.
+
+5 
+
+If the light is off, a valid code is saved. Otherwise, the light will flash once, 
+and then remains on for code re-entry.
+
+6 
+
+Operate the device with the universal remote. If your device responds
+correctly, it means you have entered the right code. Otherwise, repeat 
+from step 2, and enter the second code on the list.
+
+Note
+
+ •It is possible sometimes that your device only responds to some of the buttons. In such case, 
+set up with the next code in the code list, and try operating your device again.
+
+English
+
+EN 7
+
+Auto registration
+
+1 
+
+Switch on your device.
+
+2 
+
+Press and hold the device selection button (e.g. TV) for 5 seconds until
+the blue LED is on.
+
+8 EN
+
+3 
+
+Point at your device with the universal remote. Then press and release
+to start searching the code for your brand. A different infrared signal is 
+sent every 2 seconds as the universal remote searches, indicated by a 
+blue flash.
+
+4 
+
+When the device is off, immediately press and release OK to save the
+code. The blue LED indicator will turn off.
+
+5 
+
+Operate the device with the universal remote. If your device responds
+correctly, it means you have saved the right code.
+
+Note
+
+ •Auto registration can be reversed, by pressing and releasing  once more during the auto 
+registration process. This is helpful if you missed out the chance to press OK within 2 seconds. 
+Make sure that the device is first powered on again.
+ •Repeat the same procedures to set up other devices.
+
+max. 20
+minutes
+
+English
+
+EN 9
+
+3 Notice
+
+Notice of compliance
+
+Notice for US
+This set complies with the FCC rules, Part 15 and with 21 CFR 1040.10. 
+Operation is subject to the following two conditions:
+
+a This device may not cause harmful interference, and
+
+b This device must accept any interference received, including 
+interference that may cause undesired operation.
+FCC rules
+This equipment has been tested and found to comply with the limits for 
+a Class B digital device, pursuant to part 15 of the FCC Rules. These limits 
+are designed to provide reasonable protection against harmful interference 
+in a residential installation. This equipment generates, uses and can radiate 
+radio frequency energy and, if not installed and used in accordance with the 
+instruction manual, may cause harmful interference to radio communications.
+However, there is no guarantee that interference will not occur in a particular 
+installation. If this equipment does cause harmful interference to radio or 
+television reception, which can be determined by turning the equipment off 
+and on, the user is encouraged to try to correct the interference by one or 
+more of the following measures:
+
+•Relocate the receiving antenna.
+•Increase the separation between equipment and receiver.
+•Connect the equipment into an outlet on a circuit different from that to
+which the receiver is connected.
+•Consult the dealer or an experienced radio/TV technician for help.
+FCC Radiation Exposure Statement:
+This equipment complies with FCC radiation exposure limits set forth for an
+uncontrolled environment. This equipment should be installed and operated
+with a minimum distance of 20cm between the radiator and your body. This
+transmitter must not be co-located or operated in conjunction with any other
+antenna or transmitter.
+Warning: Changes or modifications made to this equipment not expressly
+approved by Gibson Innovations may void the FCC authorization to operate
+this equipment.
+Model number: SRP3013
+Trade Name: Philips
+Responsible party: Gibson Innovations USA  Inc.3070 Windward Plaza Suite F, 
+Box 735 Alpharetta, GA 30005
+Notice for Canada: 
+This device complies with Industry Canada licence-exempt RSS standard(s). 
+Operation is subject to the following two conditions: (1) this device may not
+cause harmful interference, and (2) this device must accept any interference
+received, including interference that may cause undesired operation.
+This Class B digital apparatus complies with Canadian ICES-003. 
+IC Radiation Exposure Statement:
+This equipment complies with Canada radiation exposure limits set forth for
+uncontrolled environments. 
+This transmitter must not be co-located or operating in conjunction with any
+other antenna or transmitter.
+
+10 EN
+
+Disposal of your old product and batteries
+
+Your product is designed and manufactured with high quality materials and 
+components, which can be recycled and reused.
+Never dispose of your product with other household waste. Please inform 
+yourself about the local rules on the separate collection of electrical and 
+electronic products and batteries. The correct disposal of these products helps 
+prevent potentially negative consequences on the environment and human 
+health.
+Your product contains batteries, which cannot be disposed of with normal 
+household waste.
+Please inform yourself about the local rules on separate collection of 
+batteries. The correct disposal of batteries helps prevent potentially negative 
+consequences on the environment and human health.
+Please visit www.recycle.philips.com for additional information on a recycling 
+center in your area.
+Environmental information
+All unnecessary packaging has been omitted. We have tried to make the 
+packaging easy to separate into three materials: cardboard (box), polystyrene 
+foam (buffer) and polyethylene (bags, protective foam sheet.)
+Your system consists of materials which can be recycled and reused if 
+disassembled by a specialized company. Please observe the local regulations 
+regarding the disposal of packaging materials, exhausted batteries and old 
+equipment.
+
+English
+
+EN 11
+
+4 Service and support
+
+Frequently asked questions
+
+My universal remote does not work at all.
+ •Check if you have correctly setup the device with the right code.
+ •Check if you have pressed the corresponding device key for your device.
+ •Check if the batteries are inserted properly. If the battery level is low, 
+replace the batteries. 
+ •Check if your device is powered on.
+ 
+If several device codes are listed under the brand of my device, how can I 
+select the correct device code?
+To seek the correct device code, test the codes one by one. The codes are 
+sorted by popularity, and the most popular code is listed first.
+ 
+My device responds only to some of the commands.
+You have set a code for which only some commands work properly but some 
+do not. Try other codes until most keys work properly.
+
+Need help?
+
+We advise you to first read this user manual carefully. It helps you set up and 
+use the universal remote. 
+If, however, you require extra information or have additional questions about 
+setup, usage, warranty, etc of the SRP3013, you can always contact us. 
+When calling our helpline, make sure to have the SRP3013 at hand when 
+you call, so that our operators can help you determine whether SRP3013 is 
+working properly. 
+You will find our contact details at the end of this user manual.
+ 
+For online support, visit www.philips.com/support
+
+2015 © Gibson Innovations Limited. All rights reserved.
+This product has been manufactured by, and is sold under the 
+responsibility of Gibson Innovations Ltd., and Gibson Innovations 
+Ltd. is the warrantor in relation to this product.
+Philips and the Philips Shield Emblem are registered trademarks 
+of Koninklijke Philips N.V. and are used under license from 
+Koninklijke Philips N.V.
+
+UM_SRP3013_27_EN_V2.0
+WK15315
+
